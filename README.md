@@ -187,5 +187,4 @@ This project demonstrates how **A/B testing and regression analysis** can be use
 
 ---
 
-If you want, I can also **make this more attractive (with badges, icons, or portfolio-level styling)** or **convert it into a resume project description**.
 
