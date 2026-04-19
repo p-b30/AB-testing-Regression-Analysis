@@ -64,9 +64,6 @@ It combines **A/B testing, statistical analysis, and regression modeling** to ge
 
 ---
 
-Add this section **before Correlation Analysis (after EDA is a good place):**
-
----
 
 ## ⚖️ Comparing Campaigns Performance
 
