@@ -150,9 +150,6 @@ This section compares **Facebook Ads vs AdWords Ads** to evaluate which platform
 
 ---
 
-Add this section **after Regression Analysis (before Conclusion or wherever you prefer):**
-
----
 
 ## ⏱️ Analyzing Facebook Campaign Metrics Over Time
 
