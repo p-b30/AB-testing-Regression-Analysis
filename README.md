@@ -64,6 +64,55 @@ It combines **A/B testing, statistical analysis, and regression modeling** to ge
 
 ---
 
+Add this section **before Correlation Analysis (after EDA is a good place):**
+
+---
+
+## ⚖️ Comparing Campaigns Performance
+
+This section compares **Facebook Ads vs AdWords Ads** to evaluate which platform performs better across key marketing metrics.
+
+### 🔍 Key Comparisons:
+
+* Distribution of **clicks and conversions**
+* Frequency of **high vs low conversion days**
+* Overall campaign performance patterns
+* Consistency in generating conversions
+* Identification of outliers and variability
+
+### 📊 Key Insights:
+
+* Facebook shows **more consistent and higher conversions**
+* AdWords has **lower and more variable performance**
+* Facebook has **more high-conversion days**
+* AdWords mostly falls in **low to moderate conversion range**
+* Performance distribution is more **balanced in Facebook campaigns**
+
+### 💡 Business Impact:
+
+* Helps identify the **better-performing platform**
+* Supports **budget reallocation decisions**
+* Highlights areas for **AdWords optimization**
+* Improves overall **marketing strategy effectiveness**
+
+<p align="center">
+  <img src="images/performance.png" alt="Image 1" width="900" />
+</p>
+<p align="center">
+  <img src="images/performance2.png" alt="Image 2" width="900" />
+</p>
+<p align="center">
+  <img src="images/performance3.png" alt="Image 3" width="900" />
+</p>
+<p align="center">
+  <img src="images/performance4.png" alt="Image 4" width="900" />
+</p>
+
+---
+
+
+
+
 ## 🔗 Correlation Analysis
 
 * **Facebook:** Strong positive correlation (0.87)
@@ -103,7 +152,55 @@ It combines **A/B testing, statistical analysis, and regression modeling** to ge
 
 👉 Useful for **forecasting campaign performance**
 
+<p align="center">
+  <img src="images/regression_analysis.png" alt="Image 1" width="900" />
+</p>
+
 ---
+
+Add this section **after Regression Analysis (before Conclusion or wherever you prefer):**
+
+---
+
+## ⏱️ Analyzing Facebook Campaign Metrics Over Time
+
+This section focuses on understanding how Facebook ad performance evolves over time using **time-based analysis**.
+
+### 🔍 Key Analysis Performed:
+
+* Weekly conversion trends to identify best-performing days
+* Monthly conversion patterns to detect seasonality
+* Cost Per Conversion (CPC) trend analysis
+* Identification of high and low performance periods
+* Cointegration analysis between ad spend and conversions
+
+### 📈 Key Insights:
+
+* Higher conversions observed on **Mondays and Tuesdays**
+* Overall **upward trend** in monthly conversions
+* Certain months show **seasonal dips in performance**
+* **CPC remains stable**, with lowest cost in May & November
+* Strong **long-term relationship between cost and conversions**
+
+### 💡 Business Impact:
+
+* Helps optimize **campaign timing and budget allocation**
+* Identifies **high ROI periods**
+* Supports **long-term marketing strategy planning**
+  
+<p align="center">
+  <img src="images/metrics.png" alt="Image 1" width="900" />
+</p>
+<p align="center">
+  <img src="images/metrics2.png" alt="Image 2" width="900" />
+</p>
+<p align="center">
+  <img src="images/metrics3.png" alt="Image 3" width="900" />
+</p>
+
+---
+
+
 
 ## 📅 Time Series Insights
 
