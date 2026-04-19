@@ -18,11 +18,6 @@ It combines **A/B testing, statistical analysis, and regression modeling** to ge
 
 ---
 
-## ❓ Research Question
-
-**Which ad platform performs better in terms of conversions, clicks, and cost-effectiveness?**
-
----
 
 ## 📂 Dataset Description
 
